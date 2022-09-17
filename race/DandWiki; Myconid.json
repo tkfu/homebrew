@@ -1,0 +1,136 @@
+{
+	"_meta": {
+		"sources": [
+			{
+				"json": "Myconid",
+				"full": "Myconid",
+				"abbreviation": "MYC",
+				"authors": [
+					"Unknown"
+				],
+				"convertedBy": [
+					"tkfu"
+				],
+				"url": "https://www.dandwiki.com/wiki/Myconid_(5e_Race)",
+				"version": "1.0.0"
+			}
+		],
+		"dateAdded": 1634635486,
+		"dateLastModified": 1634635486,
+		"_dateLastModifiedHash": "d576bd488f"
+	},
+	"race": [
+		{
+			"name": "Myconid",
+			"source": "Myconid",
+			"ability": [
+				{
+					"con": 1,
+					"wis": 2
+				}
+			],
+			"size": [
+				"M"
+			],
+			"speed": {
+				"walk": 30
+			},
+			"darkvision": 120,
+			"entries": [
+				{
+					"name": "Age",
+					"entries": [
+						"Myconids reach maturity at 6 years old and can live to be a little over 1000 with the oldest ones becoming sovereigns."
+					]
+				},
+				{
+					"name": "Alignment",
+					"entries": [
+						"Most myconids are True Neutral with good myconids are fairly common and evil myconids are very rare."
+					]
+				},
+				{
+					"name": "Size",
+					"entries": [
+						"Myconids range from 4 to 6 feet and weigh 70 to 120 lbs. Your size is Medium."
+					]
+				},
+				{
+					"name": "Speed",
+					"entries": [
+						"Your base walking speed is 30 feet."
+					]
+				},
+				{
+					"name": "Superior Darkvision",
+					"entries": [
+						"Accustomed to the darkness of the underdark, you have superior vision in dark and dim conditions. You can see in dim light within 120 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern colours in darkness, only shades of grey."
+					]
+				},
+				{
+					"name": "Sun Sickness",
+					"entries": [
+						"While in direct sunlight, unless otherwise concealed, you have disadvantage on {@skill Strength}, {@skill Dexterity} and {@skill Constitution} based ability checks, attack rolls, and saving throws."
+					]
+				},
+				{
+					"name": "Pacifiying Spores",
+					"entries": [
+						"As an action, you can eject spores at one creature you can see within 15 foot of you. The target must succeed on a DC 13 Constitution saving throw or be stunned for 1 minute or until it takes damage. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. You can use this trait a number of times equal to your proficiency bonus, and you regain all uses of this trait once you have completed a short or long rest."
+					]
+				},
+				{
+					"name": "Rapport Spores",
+					"entries": [
+						"You may as an action, extend rapport spores in a 20-foot radius. These spores can go around corners and affect only creatures with an Intelligence of 2 or higher that aren't undead, constructs, or elementals. Affected creatures can communicate telepathically with one another while they are within 30 feet of each other. The effect lasts for 1 hour."
+					]
+				},
+				{
+					"name": "Animating Spores",
+					"entries": [
+						"As an action, you can target one corpse of a Large- or Medium-sized humanoid or beast within 5 feet and releases spores at the corpse. If the corpse is left stationary and undisturbed for 24 hours, it rises as a spore servant(MM p.231). The corpse stays animated for 1d8 + 1 days or until destroyed, and it can't be animated again in this way. You regain spent use of this trait when you complete a long rest."
+					]
+				},
+				{
+					"name": "Languages",
+					"entries": [
+						"You can understand, read and write Common and Undercommon but not speak it."
+					]
+				}
+			],
+			"fluff": {
+				"name": "Myconid",
+				"source": "Myconid",
+				"entries": [
+					{
+						"name": "Physical Description",
+						"entries": [
+							"Ranging anywhere from 4 to 6 feet Myconids are brightly coloured fungi creatures who come in all shapes and sizes.Their physical features vary greatly from circle to circle and even within the circles themselves. The inside of a myconid has a soft texture similar to that of a mushroom however their bones are near the surface, and are hard and have a seemingly metallic feel. Because of their fungi origins myconids are very light, however, their endoskeleton does contribute something and they are usually between 20-30 pounds (9 to 14 kg) Though they are of a similar height to humans they are slow to move, however, their tough natural hide makes up for the disadvantage. All myconids have an aversion to sunlight and most do not wear clothes."
+						]
+					},
+					{
+						"name": "History",
+						"entries": [
+							"Not much is known about myconid history as it is passed down telepathically from generation to generation, and not generally shared with outsiders."
+						]
+					},
+					{
+						"name": "Society",
+						"entries": [
+							"Myconids live in the underdark in various colonies called circles, a circle consists of twenty or more myconids who live together work together and meld together. A meld is usually presided over by a sovereign which is the largest in the myconid colony. A sovereign can preside over multiple circles. myconids are intelligent fungi who seek enlightenment and deplore violence. When approached peacefully myconids will very happily allow safe passage provide shelter and give advice about the surrounding area. Most time spent in a circle is devoted to melding. A meld is a form of communal meditation in which myconids are able to transcend their boring underground existence. The myconids have special spores called rapport spores which are used to communicate telepathically. During a meld, they use these spores to bind into a group consciousness. Hallucinogenic spores are then introduced to create a shared dream which provides social interaction and entertainment. Many myconids consider this to be the sole purpose of their existence. They meld in pursuit of collective union spiritual apotheosis and higher consciousness. Myconids reproduce through carefully controlled sporing so as to not overpopulate the colony."
+						]
+					}
+				]
+			},
+			"traitTags": [
+				"Sunlight Sensitivity"
+			],
+			"languageProficiencies": [
+				{
+					"common": true,
+					"undercommon": true
+				}
+			]
+		}
+	]
+}
